@@ -49,7 +49,7 @@ Our final model3 when compared to the baseline model, the R-squared increase fro
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Student.ipynb) or review this [presentation](./presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./final_notebook.ipynb) or review this [presentation](./Presentation.pdf).
 
 
 - **Our project provides valuable insights into the factors affecting house prices in King County and offers recommendations for homeowners and researchers interested in understanding the housing market dynamics.
