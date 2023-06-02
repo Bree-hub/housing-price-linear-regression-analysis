@@ -30,7 +30,7 @@ All model features had a p-value < 0.05 (our alpha/significance level), which te
 The final model included 4 of the most significant predictor variables of house price. They are, Intercept, grade, sqft_living and bathrooms.
 Our final model3 when compared to the baseline model, the R-squared increase from 50% to 54%
 
-![RESULTS](./images/results.png)
+![RESULTS](./data/image.jpg)
 
 ## Conclusion
 - **The model's ability to account for approximately 47% of the variability in house prices, as indicated by the R-squared value of 0.473, shows promise but acknowledges that there are other factors influencing house prices beyond the features included in the model.
