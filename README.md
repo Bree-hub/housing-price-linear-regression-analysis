@@ -1,14 +1,4 @@
 # Housing Price Linear Regression Analysis
-
-**Authors:**
- 1. Brenda Kinoti
- 2. Julius Charles
- 4. cleophas Opati
- 5. Winnie Onduru
- 6. John Karanja
- 7. Joy Wangari
- 8. Jonathan Okwaro
-
 **Client:** Yuniq Realtors
 
 ## Overview
